@@ -8,5 +8,4 @@ Here is the appearance of the portfolio:
 ![portfolio demo](./assets/Screenshot%202024-08-16%20at%208.45.30 AM.png)
 
 ## Deployed Application Link
-
-
+ https://kwansom.github.io/kun-portfolio/
